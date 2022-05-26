@@ -21,6 +21,6 @@ Projeto realizado no módulo de FrontEnd Essentials do curso DevStart da be.acad
 ## Libs Externas
 - [ScrollReveal](https://scrollrevealjs.org/) 
 ## Link do Portfolio
-- [Meu Portfolio](https://scrollrevealjs.org/) :vulcan_salute:
+- [Meu Portfolio](https://evertonriquetti.github.io/beacademy-devstart-frontend-myportfolio/) :vulcan_salute:
 ## UI no Figma
 - [UI do Projeto](https://www.figma.com/file/cORQUmT2QxFhV1IFQRmVeL/Portf%C3%B3lio-be.academy?node-id=12%3A6)
